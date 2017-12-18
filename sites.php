@@ -30,7 +30,7 @@ site_header("A Tourist's Guide", array("current" => "help"));
 </p>
                                                                         
 <p>
- The next most visited section is the <a href="/docs.php">documentation</a>.
+ The next most visited section is the <a href="/docs.php">Documentation</a>.
  The documentation is translated into twelve different languages, and is
  available in <a href="/download-docs.php">a variety of different formats</a>.
  Users are able to read notes on the documentation left by other users, and
